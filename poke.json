@@ -10,7 +10,7 @@
             "altura":0.4,
             "peso": 6,
             "descripcion":"Pikachu es un Pokémon de tipo eléctrico introducido en la primera generación.",
-            "figure":"https://drive.google.com/uc?export=vew&id=1JhJR_AxaXpyKFcGEpIsJakzYAIvm-bER"
+            "figure":"https://drive.google.com/uc?export=vew&id=1KKeqKOnvnQpM6yG581Kj5hPvvkN4K9VY"
         },
         {
             "id":2,
@@ -18,7 +18,7 @@
             "tipo":"Electrico",
             "altura": 1.2,
             "peso": 66.6,
-            "descripcion":"Electrode es un Pokémon artificial de tipo eléctrico de la primera generación. Tiende a explotar por la mas mínima cosa",
+            "descripcion":"Electrode es un Pokémon artificial eléctrico de la primera generación.Tiende a explotar por la mas mínima cosa",
             "figure":"https://drive.google.com/uc?export=vew&id=1KTeUBtfc349mZnjurSEBCCB2iSy95Z_D"    
         },
         {
@@ -45,7 +45,7 @@
             "tipo":"Electrico",
             "altura": 1.8,
             "peso": 20.5,
-            "descripcion":"Tapu Koko es un Pokémon legendario de tipo eléctrico/hada de la séptima generación. Es el espíritu guardián de Melemele, isla de la región de Alola.",
+            "descripcion":"Tapu Koko es un Pokémon legendario de la séptima generación. Es el espíritu guardián de Melemele, isla de Alola.",
             "figure":"https://drive.google.com/uc?export=vew&id=1KZLqOPpZNnSX4P-wOlgFSwraTqOPjFgv"      
         }
     ]
